@@ -1,0 +1,17 @@
+{
+  "name": "QuickLearn",
+  "short_name": "QuickLearn",
+  "description": "A private, local-first personal study workspace.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f5f4",
+  "theme_color": "#0d1825",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
